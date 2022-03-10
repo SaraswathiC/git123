@@ -10,4 +10,7 @@ public static void main(String[] args) {
 			g.add();
 	
 }
+private void sub() {
+System.out.println("1234");
+}
 }
